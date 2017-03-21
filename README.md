@@ -1,5 +1,12 @@
 # Startkit to do your bots
 
+## You're not a developer? Try Dexter! 
+It's so simple as writing the dialog, in River Script (the best way to define a conversation).
+But it is able to use variables, have conditionals, send images, send buttons, or even get JSON from webs or posting items. And if you want more complexity, you can embed javascript inside!
+
+http://docs.rundexter.com/writing/basics/first-things-first/
+
+
 ## Create a Facebook App
 
 1. Navigate to: https://www.facebook.com/bookmarks/pages
