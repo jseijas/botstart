@@ -19,7 +19,7 @@ Both can be used also as external NLP for your bots.
 
 It's based on Microsoft Bot Framework, so you will be able to use all the functionalities provided by Microsoft.
 
-Visit https://github.com/jseijas/generator-flowbot for more information
+Here you have the info! https://github.com/jseijas/botstart/blob/master/HelloFlowbot.pptx?raw=true
 
 ### You want to test your local developed bot without deploying it
 
