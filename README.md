@@ -1,4 +1,4 @@
-# Startkit to do your bots
+# Starter kit to do your bots
 
 ## You're not a developer? Try Dexter! 
 It's so simple as writing the dialog, in River Script (the best way to define a conversation).
