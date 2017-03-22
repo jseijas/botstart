@@ -6,6 +6,39 @@ But it is able to use variables, have conditionals, send images, send buttons, o
 
 http://docs.rundexter.com/writing/basics/first-things-first/
 
+## You're not a developer but you want NLP? Try API.ai or Wit.ai
+
+API.ai will allow you to have a great NLP, with Entity Recognition, and build apps for a lot of channel, including Alexa and Google Home. The great limitation is that the conversations cannot be as complex as in other platforms.
+https://api.ai/
+
+Wit.ai will allow you to do great bos for Facebook, with more complexity in the dialogs than API.ai, and is very easy to use.
+
+Both can be used also as external NLP for your bots.
+
+## You're a developer? You can try the flowbot!
+
+It's based on Microsoft Bot Framework, so you will be able to use all the functionalities provided by Microsoft.
+
+Visit https://github.com/jseijas/generator-flowbot for more information
+
+### You want to test your local developed bot without deploying it
+
+Just try https://ngrok.com/
+It will generate an https url that is a tunnel to your local machine!
+
+### You want to deploy your bot for free
+
+You can try https://www.heroku.com/
+You'll be able to deploy from a github, from a dropbox or using it's own github.
+To use it's own github, install the heroku CLI: https://devcenter.heroku.com/articles/heroku-cli
+Once you install the cli you can do:
+- heroku login (To login into your heroku)
+- git add .
+- git commit -m "comment for the commit"
+- heroku create name-of-your-project
+- git push heroku master
+
+This will automatically deploy your node app.
 
 ## Create a Facebook App
 
